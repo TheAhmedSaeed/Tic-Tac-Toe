@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "inbound-byway-253219": {
+      "hosting": {
+        "tic-tac-toe": [
+          "inbound-byway-253219"
+        ]
+      }
+    }
+  }
+}
